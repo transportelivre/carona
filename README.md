@@ -6,3 +6,8 @@
     - material GMendes
   - Uso de solução mobile
   - Uso de know-how adquirido no "mapa de ciclistas"
+
+## Referências
+https://github.com/transportelivre/caronaboard
+https://github.com/transportelivre/OpenTripPlanner
+https://blablalines.com/
